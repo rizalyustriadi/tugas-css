@@ -1,0 +1,84 @@
+body {
+	background-color: #1F1A67;;
+
+}
+
+.container {
+	width: 1000px;
+	margin: 0px auto;
+	padding : 0 px 10px;
+	background-color: #010242;
+}
+
+.content {
+	margin: 10px auto;
+	padding: 20px;
+}
+
+#logo {
+	float: left;
+	width: 200px;
+	height: auto;
+	padding: 20px;
+}
+
+#logo img {
+	max-width: 100%;
+	height: auto;
+}
+
+#menu {
+	padding : 60px 0px;
+	float: right;
+	width: 750px;
+	color: white;
+}
+
+#menu li {
+	float: left;
+	list-style: none;
+	margin: 0px 10px;
+}
+
+#menu li a{
+	color: whitesmoke;
+	font-family: Verdana, Feneva, Tahoma, sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.blog-single {
+	max-width: 720px;
+	height: 400px;
+	margin: 0px auto;
+	display: inline-block;
+
+}
+
+img {
+	width: 70%;
+	height: auto;
+	object-fit: ;
+}
+h2, p {
+	color: white;
+}
+
+li {
+	color: white;
+}
+
+.text-box {
+	padding: 20px;
+}
+
+.image-box {
+	margin: 0px auto;
+}
+
+.image-box img {
+	margin: 0px auto;
+	width: 400px;
+	height: auto;
+}
